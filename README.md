@@ -1,4 +1,4 @@
-# ide-eval-resetter v 1.0.5
+# ide-eval-resetter v 2.1.8
 Reset Your IDE Eval Information
 
 * Download and install plugin from Release Page.
